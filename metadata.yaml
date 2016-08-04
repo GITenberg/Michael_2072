@@ -1,0 +1,29 @@
+_repo: Michael_2072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Michael
+url: http://www.gutenberg.org/ebooks/2072
